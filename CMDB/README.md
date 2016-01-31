@@ -1,4 +1,4 @@
 Vesalius Research Center Metabolomics Core Facility
 
-This directory contains the comprehensive metabolomics databases (CMDB).
+This directory contains the comprehensive metabolomics database (CMDB).
 
