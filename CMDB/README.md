@@ -6,7 +6,7 @@ We make the CMDB freely available as a resource to the wider research community.
 
 Please cite this publication:
 
-For questions contact the VRC-MCF at Jermaine.Goveia at vib-kuleuven.be.
+For questions contact the VRC-MCF: Jermaine.Goveia at vib-kuleuven.be.
 
 
 
