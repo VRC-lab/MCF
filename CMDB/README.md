@@ -4,7 +4,7 @@ This directory contains the comprehensive metabolomics database (CMDB) and assoc
 
 We make the CMDB freely available as a resource to the wider research community.
 
-Please cite as follows:
+Please cite this publication:
 
 For questions contact the VRC-MCF at Jermaine.Goveia at vib-kuleuven.be.
 
